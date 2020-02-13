@@ -1,0 +1,147 @@
+body{
+  background-image: url("bg1.PNG.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+li {
+  display: inline;
+  font-size: 20px;
+  text-decoration: none;
+
+}
+a{
+  display: inline;
+  font-size: 20px;
+  text-decoration: none;
+  color: #2c7873;
+}
+a:hover{
+  color: white;
+}
+
+h1{
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 35px;
+  margin-left:650px;
+  margin-top: 50px;
+  margin-bottom: -30px;
+  padding:0;
+}
+
+h2{
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 35px;
+  margin-left:950px;
+  Padding:0;
+}
+
+h3{
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 50px;
+  margin-left:850px;
+  Padding:0;
+}
+
+h4{
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 25px;
+  margin-left:880px;
+  Padding:0;
+}
+
+.myButton {
+	box-shadow: 3px 4px 0px 0px #e6c6cc;
+	background:linear-gradient(to bottom, #ededed 5%, #f5dadf 100%);
+	background-color:#ededed;
+	border-radius:15px;
+	border:1px solid #f5dadf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ff8ba6;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:7px 28px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+  margin-left:1000px;
+  margin-top: 75px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f5dadf 5%, #ededed 100%);
+	background-color:#f5dadf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+/* Register box */
+
+.firstname{
+  margin-left: 500px;
+  padding: 0;
+}
+
+.col-25{
+  margin-left: 200px;
+  padding: 0;
+}
+
+
+.lastname{
+  margin-left: 500px;
+  padding: 0;
+}
+
+
+.email{
+  margin-left: 500px;
+  padding: 0;
+}
+
+
+.info{
+  margin-left: 470px;
+  padding: 0;
+}
+
+
+p{
+  margin-left: 720px;
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 20px;
+  Padding:0;
+}
+
+
+
+/* Submit button */
+.Submit{
+	box-shadow: 3px 4px 0px 0px #e6c6cc;
+	background:linear-gradient(to bottom, #ededed 5%, #f5dadf 100%);
+	background-color:#ededed;
+	border-radius:15px;
+	border:1px solid #f5dadf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ff8ba6;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:7px 28px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+  margin-left:1000px;
+  margin-top: 75px;
+}
+.Submit:hover {
+	background:linear-gradient(to bottom, #f5dadf 5%, #ededed 100%);
+	background-color:#f5dadf;
+}
+.Submit:active {
+	position:relative;
+	top:1px;
+}

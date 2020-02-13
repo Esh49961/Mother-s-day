@@ -1,0 +1,27 @@
+body{
+  background-image: url("bg2.PNG.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+
+h1{
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 35px;
+  margin-left:200px;
+  margin-top: 250px;
+  margin-bottom: -30px;
+  padding:0;
+}
+
+
+
+h3{
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 50px;
+  margin-top: 100px;
+  margin-left:350px;
+  Padding:0;
+}
